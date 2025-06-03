@@ -1,0 +1,6 @@
+function subtract (a,b) :
+    return a-b
+
+
+result = subtract(3,2)
+
